@@ -8,7 +8,7 @@ static const int topbar             = 1;        /* 0 means bottom bar */
 static const char *fonts[]          = { "Product Sans:size=10", "Noto Sans CJK JP:size=10", "3270NerdFontMono-Regular:size=13" };
 static const char dmenufont[]       = "Coder's Crux:size=15";
 // background color
-static const char col_gray1[]       = "#1f1e2e";
+static const char col_gray1[]       = "#282828";
 // inactive window border color
 static const char col_gray2[]       = "#444444";
 // font color
@@ -16,7 +16,7 @@ static const char col_gray3[]       = "#bbbbbb";
 // current tag and current window font color
 static const char col_gray4[]       = "#eeeeee";
 // top bar second color (blue) and active window border color
-static const char col_cyan[]        = "#80699e";
+static const char col_cyan[]        = "#4b808e";
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
 	[SchemeNorm] = { col_gray3, col_gray1, col_gray2 },
