@@ -1,4 +1,4 @@
-feh --bg-scale ~/wallpapers/losasemo.jpeg
+feh --bg-scale ~/wallpapers/wallpaper.png
 
 dwmblocks &
 exec /usr/local/bin/dwm
